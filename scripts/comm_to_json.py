@@ -33,10 +33,10 @@ def main():
 	
 	args = []
 	print "------------------ Compiler Parameters ------------------"
-	args.append(raw_input(bcolors.OKBLUE + "Learning rate: " + bcolors.ENDC))
-	args.append(raw_input(bcolors.OKBLUE + "Epoch number: "+ bcolors.ENDC))
-	args.append(raw_input(bcolors.OKBLUE + "Sampling rate: "+ bcolors.ENDC))
-	args.append(raw_input(bcolors.OKBLUE + "Test data fraction: "+ bcolors.ENDC))
+	args.append(raw_input(bcolors.OKBLUE + "Learning rate [0.1-1.0]: " + bcolors.ENDC))
+	args.append(raw_input(bcolors.OKBLUE + "Epoch number [1-10000]: "+ bcolors.ENDC))
+	args.append(raw_input(bcolors.OKBLUE + "Sampling rate [0.1-1.0]: "+ bcolors.ENDC))
+	args.append(raw_input(bcolors.OKBLUE + "Test data fraction [0.1-1.0]: "+ bcolors.ENDC))
 
 	hidden_layers = raw_input(bcolors.OKBLUE + "Maximum number of layers [3|4]: "+ bcolors.ENDC)
 	while((int(hidden_layers) != 3 ) and (int(hidden_layers) != 4)):
@@ -44,7 +44,7 @@ def main():
 		hidden_layers = raw_input(bcolors.OKBLUE + "Maximum number of layers [3|4]: "+ bcolors.ENDC)
 
 	args.append(hidden_layers)
-	args.append(raw_input(bcolors.OKBLUE + "Maximum number of neurons per layer: "+ bcolors.ENDC))
+	args.append(raw_input(bcolors.OKBLUE + "Maximum number of neurons per layer [2-64]: "+ bcolors.ENDC))
 	print "---------------------------------------------------------"
 	
 	data_file = open(sys.argv[1] +'.json', 'w')
