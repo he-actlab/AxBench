@@ -37,7 +37,7 @@ function MakeSrc()
 	make &> ./log/Make.log
 	if grep -q "error" ./log/Make.log; then
 		grep -rn "error" ./log/Make.log
-    	echo -e "${red}---------- application ** $1 ** failed during compiling (check ./log/Make.log) ----------${nc}"
+    	echo -e "${red}---------- application ** $1 ** failed during compiling (check ${applications}/log/Make.log) ----------${nc}"
     	exit 1
 	fi
 	echo -en "\033[36m"
@@ -60,7 +60,7 @@ function CleanSrc()
 	make clean &> ./log/clean.log
 	if grep -q "error" ./log/clean.log; then
 		grep -rn "error" ./log/clean.log
-    	echo -e "${red}---------- application ** $1 ** failed during cleaning (check ./log/clean.log) ----------${nc}"
+    	echo -e "${red}---------- application ** $1 ** failed during cleaning (check ${applications}/log/clean.log) ----------${nc}"
     	exit 1
 	fi
 	echo -en "\033[36m"
@@ -96,7 +96,7 @@ function RunSrc()
 	if grep -q "error" ./log/Make_nn.log; then
 		grep -rn "error" ./log/Make_nn.log
 		echo -e "---------------------------------------------------------"
-    	echo -e "${red}${underline} The transformed code for ** $1 ** failed during compiling (check ./log/Make_nn.log) ${normal}${nc}"
+    	echo -e "${red}${underline} The transformed code for ** $1 ** failed during compiling (check ${applications}/log/Make_nn.log) ${normal}${nc}"
     	echo -e "---------------------------------------------------------"
     	exit 1
     else
