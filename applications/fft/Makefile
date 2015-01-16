@@ -3,8 +3,8 @@ LD			:= g++
 
 include ../config.mk
 
-CFLAGS		:= -Wall -lfann -lbackprop -lboost_regex -std=c++11
-LFLAGS		:= -lfann -lbackprop -lboost_regex -lParrot
+CFLAGS		:= -Wall -lfann -lboost_regex -std=c++11
+LFLAGS		:= -lfann -lboost_regex -lParrot
 HEADERS     := src
 INCLUDE 	:= -I${ANALOG_INC} -I${FANN_INC} -I${HEADERS}
 LIB			:= -L${ANALOG_LIB} -L${FANN_LIB} -L$(PARROT_LIB)
