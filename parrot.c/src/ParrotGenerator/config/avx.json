@@ -1,0 +1,7 @@
+{
+  "dataType": "float",
+  "parrotCpuLib": "parrot_avx_hwsigmoid.h",
+  "vectorizationMode": "AVX_Horizontal",
+  "vectorWidth": 8,
+  "vectorDataType": "__m256"
+}

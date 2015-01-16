@@ -1,0 +1,4 @@
+{
+  "dataType": "float",
+  "parrotCpuLib": "parrot_cpu_hwsigmoid.h"
+}

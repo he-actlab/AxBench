@@ -1,0 +1,9 @@
+{
+  "Project": "sine",
+  "Parrot Observer": {
+    "parrotoClass": "ParrotObserver", 
+    "parrotoLib":   "parroto.h", 
+    "parrotoObj":   "parroto",
+    "parrotoFile":  "hadianeh.parroto.data"
+  }
+}

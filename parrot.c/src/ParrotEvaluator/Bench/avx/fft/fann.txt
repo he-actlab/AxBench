@@ -1,0 +1,6 @@
+Info: CPU affinity is set to 1
+Info: Iterations: 1000
+fann
+time: 0; 0; 0
+time: 19235758824; 19235.8; 19235.8
+

@@ -1,0 +1,6 @@
+Info: CPU affinity is set to 1
+Info: Iterations: 1000000
+parrot
+time: 0; 0; 0
+time: 1436747942518; 1.43675e+06; 1.43675e+06
+

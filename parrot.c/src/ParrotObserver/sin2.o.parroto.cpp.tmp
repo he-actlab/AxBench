@@ -1,0 +1,47 @@
+#include "parroto.h"
+extern ParrotObserver parroto;
+
+#include <math.h>
+#include "floatfann.h"
+#include <iostream>
+#include "fann.h"
+
+using namespace std;
+
+#define PI 3.14
+#define N 1000
+
+float hotSin(float x) {
+	float y;
+
+#pragma parrot(input, "hotSin", x)
+parroto.write("hotSin", 0, x, 0, 0);
+	//float w[1] = {x};
+
+	cout << sin(x) << " -- ";
+	fann_type* parrotOut;
+	struct fann *ann;
+	std::string inputFile = "hotSinNN.net";
+	ann = fann_create_from_file(inputFile.c_str());
+	parrotOut = fann_run(ann, (fann_type*)(&x));
+
+parroto.write("hotSin", 1, y, -1.0, 1.0);
+#pragma parrot(output, "hotSin", <-1.0; 1.0>y)
+
+	y = parrotOut[0];
+	cout << y << std::endl;
+	return y;
+}
+
+int main() {
+	int i;
+	float x, y;
+
+	for (i = 0; i < N; ++i) {
+		x = i * 2 * PI / N;
+		y = hotSin(x);
+
+		//cout << x << ", " << y << "\n";
+	}
+}
+

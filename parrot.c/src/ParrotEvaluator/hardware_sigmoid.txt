@@ -1,0 +1,14 @@
+time out/ParrotEvaluator.out 14 ./fft.nn ./fft.data parrot 1000
+Info: CPU affinity is set to 14
+Info: Iterations: 1000
+parrot
+time: 0; 0; 0
+time: 4750969184; 4750.97; 4750.97
+
+time out/ParrotEvaluator.out 14 ./fft.nn ./fft.data fann   1000
+Info: CPU affinity is set to 14
+Info: Iterations: 1000
+fann
+time: 0; 0; 0
+time: 43776774108; 43776.8; 43776.8
+
