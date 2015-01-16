@@ -50,7 +50,9 @@ There are some parameters that need to be specified by the user during the compi
 
 6) ** Maximum number of neurons per layer: ** The maximum number of neurons per each hidden layer.
 
+*** === Parrot Annotations ===***
 
+All the applications come with the necessary annotations for neural network transformation. We use **pragma** keyword to mark the region of the code which needs to be transformed to neural network representation. 
 
 *** === Adding new benchmarks ===***
 
