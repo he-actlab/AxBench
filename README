@@ -61,7 +61,9 @@ will be later used to execute the Parrot transformation on the applications.
 2) Then, modify **config.mk** in the **applications** folder with the location
 of the **Parrot** and **FANN library**.
 
-3) You are set to use **AxBench**. You can simply execute the **run.sh** script
+3) You aslo need to run **bash make_all.sh** inside the **fann.template** directory.
+
+4) You are set to use **AxBench**. You can simply execute the **run.sh** script
 to make or run each of the applications.
 
 *** === Compilation Parameters ===***
