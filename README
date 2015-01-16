@@ -18,6 +18,17 @@ MICRO'12 describing the suite:
   1. H. Esmaeilzadeh, A. Sampson, L. Ceze, D. Burger,
     "Neural acceleration for general-purpose approximate programs", MICRO 2012.
 
+*** === Dependencies === ***
+
+**AxBench** was developed on Ubuntu Linux (this release was tested with Ubuntu
+version 12.04). In principal, **AxBench** should work with any Linux
+distribution as long as the following software dependencies are satisfied.
+
+1. Boost Libraries [version 1.49 or higher]
+2. Python [version 2.7 or higher]
+3. G++ [4.6 or higher]
+4. Fast Artificial Neural Network Library (FANN) [version 2.2.0 or higher]
+
 *** === Applications === ***
 
 1. **Black-Scholes [Financial Analysis]**: This application calculates the price
@@ -40,17 +51,6 @@ on a set of random (r, g, b) values.
 
 7. **Sobel [Image Processing]**: Sobel filter detects the edges of a color
 image.
-
-*** === Dependencies === ***
-
-**AxBench** was developed on Ubuntu Linux (this release was tested with Ubuntu
-version 12.04). In principal, **AxBench** should work with any Linux
-distribution as long as the following software dependencies are satisfied.
-
-1. Boost Libraries [version 1.49 or higher]
-2. Python [version 2.7 or higher]
-3. G++ [4.6 or higher]
-4. Fast Artificial Neural Network Library (FANN) [version 2.2.0 or higher]
 
 *** === Build and Run AxBench ===***
 
