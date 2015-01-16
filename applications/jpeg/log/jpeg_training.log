@@ -1,0 +1,256 @@
+Application name: 				jpeg
+Number of input neurons: 			64
+Number of output neurons: 		64
+Min number of hidden neurons:		2
+Max number of hidden neurons:		4
+Number of hidden layers: 			3
+Sampling Rate: 					0.1
+Test Fraction: 					0.8
+Learning rate: 					0.4
+Number of epochs:					400
+--------------- Training jpeg ---------------
+# preparing the configuration 64_2_64...
+# preparing the configuration 64_4_64...
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 2 -> 64
+# epochs: 400
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_2_64/epochs_400/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 64 -> 4 -> 64
+# epochs: 400
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/jpeg/nn.configs/64_4_64/epochs_400/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+bash ../../scripts/run_training.sh jpeg 64 64 2 4 3 0.1 0.8 0.4 400

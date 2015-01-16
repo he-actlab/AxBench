@@ -1,0 +1,1110 @@
+Application name: 				sobel
+Number of input neurons: 			9
+Number of output neurons: 		1
+Min number of hidden neurons:		2
+Max number of hidden neurons:		8
+Number of hidden layers: 			4
+Sampling Rate: 					0.4
+Test Fraction: 					0.6
+Learning rate: 					0.5
+Number of epochs:					1000
+--------------- Training sobel ---------------
+# preparing the configuration 9_2_1...
+# preparing the configuration 9_4_1...
+# preparing the configuration 9_8_1...
+# preparing the configuration 9_2_2_1...
+# preparing the configuration 9_4_2_1...
+# preparing the configuration 9_4_4_1...
+# preparing the configuration 9_8_2_1...
+# preparing the configuration 9_8_4_1...
+# preparing the configuration 9_8_8_1...
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 2 -> 2 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_2_2_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 2 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_2_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 4 -> 4 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_4_4_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 2 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_2_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 4 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_4_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    1
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_1
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    2
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_2
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    3
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_3
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    4
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_4
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    5
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_5
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    6
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_6
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    7
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_7
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    8
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_8
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    9
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_9
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    10
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_10
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    11
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_11
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    12
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_12
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    13
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_13
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    14
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_14
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+# config: 9 -> 8 -> 8 -> 1
+# epochs: 1000
+# run:    15
+...............................................
+/home/yazdan/phd/projects/parrot.cpu/applications/sobel/nn.configs/9_8_8_1/epochs_1000/run_15
+@ Start RPROP...0
+# training algorithm: RPROP
+***********************************************
+bash ../../scripts/run_training.sh sobel 9 1 2 8 4 0.4 0.6 0.5 1000

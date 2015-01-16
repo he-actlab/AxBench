@@ -1,0 +1,34 @@
+blackscholes.c
+obj/blackscholes.o
+if [ ! -d "./bin" ];then 	\
+		mkdir bin;				\
+	fi
+if [ ! -d "./obj" ];then 	\
+		mkdir obj;				\
+	fi
+python /home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotObserver/plang.py -c /home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotObserver/ParrotC.json -a observe -e "g++ -Wall -Wnarrowing -lfann -lbackprop -lboost_regex -std=c++11 -O3 -MD -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -I/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -c" -s "src/blackscholes.c" -o "obj/blackscholes.o" -t
+obj/blackscholes.o.parroto.c:259:0: warning: ignoring #pragma parrot  [-Wunknown-pragmas]
+ #pragma parrot(input, "blackscholes", [6]dataIn)
+ ^
+obj/blackscholes.o.parroto.c:268:0: warning: ignoring #pragma parrot  [-Wunknown-pragmas]
+ #pragma parrot(output, "blackscholes", [1]<0.1; 0.9>dataOut)
+ ^
+obj/blackscholes.o.parroto.c: In function ‘int bs_thread(void*)’:
+obj/blackscholes.o.parroto.c:246:20: warning: unused variable ‘price’ [-Wunused-variable]
+             fptype price;
+                    ^
+--------------------------------
+[6]dataIn
+['dataIn', '6', None, None]
+('dataIn', '6', ('0', '0'))
+[('dataIn', '6', ('0', '0'))]
+--------------------------------
+[1]<0.1; 0.9>dataOut
+['dataOut', '1', '0.1', ' 0.9']
+('dataOut', '1', ('0.1', '0.9'))
+[('dataOut', '1', ('0.1', '0.9'))]
+Parrot Observer
+g++ -Wall -Wnarrowing -lfann -lbackprop -lboost_regex -std=c++11 -O3 -MD -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -I/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -c obj/blackscholes.o.parroto.c -o obj/blackscholes.o
+mv obj/blackscholes.o.parroto.c obj/blackscholes.o.parroto.c.tmp
+#g++ -Wall -Wnarrowing -lfann -lbackprop -lboost_regex -std=c++11 -O3 -MD -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -c src/blackscholes.c -o obj/blackscholes.o
+g++ obj/blackscholes.o -L/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/lib -L/filespace/people/y/yazdanbakhsh/FANN/bin/lib -L/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -lfann -lbackprop -lboost_regex -lParrot -o bin/blackscholes.out

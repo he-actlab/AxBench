@@ -1,0 +1,30 @@
+src/complex.cpp src/fft.cpp src/fourier.cpp
+obj/complex.o obj/fft.o obj/fourier.o
+if [ ! -d "./bin" ];then 	\
+		mkdir bin;				\
+	fi
+if [ ! -d "./obj" ];then 	\
+		mkdir obj;				\
+	fi
+python /home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotObserver/plang.py -c /home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotObserver/ParrotC.json -a observe -e "g++ -Wall -lfann -lbackprop -lboost_regex -std=c++11 -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -I/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -c" -s "src/fourier.cpp" -o "obj/fourier.o" -t
+obj/fourier.o.parroto.cpp:63:0: warning: ignoring #pragma parrot  [-Wunknown-pragmas]
+ #pragma parrot(input, "fft", [1]dataIn)
+ ^
+obj/fourier.o.parroto.cpp:72:0: warning: ignoring #pragma parrot  [-Wunknown-pragmas]
+ #pragma parrot(output, "fft", [2]<0.0; 2.0>dataOut)
+ ^
+--------------------------------
+[1]dataIn
+['dataIn', '1', None, None]
+('dataIn', '1', ('0', '0'))
+[('dataIn', '1', ('0', '0'))]
+--------------------------------
+[2]<0.0; 2.0>dataOut
+['dataOut', '2', '0.0', ' 2.0']
+('dataOut', '2', ('0.0', '2.0'))
+[('dataOut', '2', ('0.0', '2.0'))]
+Parrot Observer
+g++ -Wall -lfann -lbackprop -lboost_regex -std=c++11 -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -I/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -c obj/fourier.o.parroto.cpp -o obj/fourier.o
+mv obj/fourier.o.parroto.cpp obj/fourier.o.parroto.cpp.tmp
+#g++ -Wall -lfann -lbackprop -lboost_regex -std=c++11 -I/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/src -I/filespace/people/y/yazdanbakhsh/FANN/bin/include -Isrc -c src/fourier.cpp -o obj/fourier.o
+g++ obj/complex.o obj/fft.o obj/fourier.o -L/home/yazdan/phd/benchmarks/npu.bench/anpu.compiler/lib -L/filespace/people/y/yazdanbakhsh/FANN/bin/lib -L/home/yazdan/phd/projects/parrot.cpu/parrot.c/src/ParrotLib -lfann -lbackprop -lboost_regex -lParrot -o bin/fft.out

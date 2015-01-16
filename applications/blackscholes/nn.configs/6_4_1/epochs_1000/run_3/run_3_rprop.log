@@ -1,0 +1,113 @@
+# config: 6->4->1
+# epochs: 1000
+# run:    3
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1881707162. Bit fail 140.
+Epochs          200. Current error: 0.0008338452. Bit fail 0.
+Epochs          400. Current error: 0.0002906779. Bit fail 0.
+Epochs          600. Current error: 0.0002152145. Bit fail 0.
+Epochs          800. Current error: 0.0001784305. Bit fail 0.
+Epochs         1000. Current error: 0.0001448063. Bit fail 0.
+# Train MSE: 0.000144806
+# Test MSE: 0.000264522
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1733331680. Bit fail 131.
+Epochs          200. Current error: 0.0010468784. Bit fail 0.
+Epochs          400. Current error: 0.0004940610. Bit fail 0.
+Epochs          600. Current error: 0.0002915054. Bit fail 0.
+Epochs          800. Current error: 0.0002034807. Bit fail 0.
+Epochs         1000. Current error: 0.0001712625. Bit fail 0.
+# Train MSE: 0.000171262
+# Test MSE: 0.000277526
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.2281060070. Bit fail 146.
+Epochs          200. Current error: 0.0009212723. Bit fail 0.
+Epochs          400. Current error: 0.0004368839. Bit fail 0.
+Epochs          600. Current error: 0.0001953285. Bit fail 0.
+Epochs          800. Current error: 0.0001572071. Bit fail 0.
+Epochs         1000. Current error: 0.0001501324. Bit fail 0.
+# Train MSE: 0.000150132
+# Test MSE: 0.000239243
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1979685128. Bit fail 141.
+Epochs          200. Current error: 0.0009207134. Bit fail 0.
+Epochs          400. Current error: 0.0006271316. Bit fail 0.
+Epochs          600. Current error: 0.0003864071. Bit fail 0.
+Epochs          800. Current error: 0.0002623931. Bit fail 0.
+Epochs         1000. Current error: 0.0002116423. Bit fail 0.
+# Train MSE: 0.000211642
+# Test MSE: 0.000297819
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1704505980. Bit fail 130.
+Epochs          200. Current error: 0.0008933190. Bit fail 0.
+Epochs          400. Current error: 0.0005967618. Bit fail 0.
+Epochs          600. Current error: 0.0003375238. Bit fail 0.
+Epochs          800. Current error: 0.0002356003. Bit fail 0.
+Epochs         1000. Current error: 0.0001836153. Bit fail 0.
+# Train MSE: 0.000183615
+# Test MSE: 0.000274484
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1877427995. Bit fail 140.
+Epochs          200. Current error: 0.0009526382. Bit fail 0.
+Epochs          400. Current error: 0.0004748452. Bit fail 0.
+Epochs          600. Current error: 0.0002278674. Bit fail 0.
+Epochs          800. Current error: 0.0001694950. Bit fail 0.
+Epochs         1000. Current error: 0.0001444992. Bit fail 0.
+# Train MSE: 0.000144499
+# Test MSE: 0.000241504
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1743771136. Bit fail 131.
+Epochs          200. Current error: 0.0011005431. Bit fail 0.
+Epochs          400. Current error: 0.0009576657. Bit fail 0.
+Epochs          600. Current error: 0.0005728972. Bit fail 0.
+Epochs          800. Current error: 0.0003421742. Bit fail 0.
+Epochs         1000. Current error: 0.0002357814. Bit fail 0.
+# Train MSE: 0.000235781
+# Test MSE: 0.000360936
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.2039393038. Bit fail 142.
+Epochs          200. Current error: 0.0010167329. Bit fail 0.
+Epochs          400. Current error: 0.0005531039. Bit fail 0.
+Epochs          600. Current error: 0.0002770105. Bit fail 0.
+Epochs          800. Current error: 0.0001927247. Bit fail 0.
+Epochs         1000. Current error: 0.0001589082. Bit fail 0.
+# Train MSE: 0.000158908
+# Test MSE: 0.000317377
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1970016360. Bit fail 141.
+Epochs          200. Current error: 0.0010725554. Bit fail 0.
+Epochs          400. Current error: 0.0006615187. Bit fail 0.
+Epochs          600. Current error: 0.0003013317. Bit fail 0.
+Epochs          800. Current error: 0.0002269055. Bit fail 0.
+Epochs         1000. Current error: 0.0001934261. Bit fail 0.
+# Train MSE: 0.000193426
+# Test MSE: 0.000299982
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.2064967155. Bit fail 144.
+Epochs          200. Current error: 0.0010577287. Bit fail 0.
+Epochs          400. Current error: 0.0009568151. Bit fail 0.
+Epochs          600. Current error: 0.0006753831. Bit fail 0.
+Epochs          800. Current error: 0.0003572117. Bit fail 0.
+Epochs         1000. Current error: 0.0002141923. Bit fail 0.
+# Train MSE: 0.000214192
+# Test MSE: 0.000336832
+# Training: 2
+Max epochs     1000. Desired error: 0.0000010000.
+Epochs            1. Current error: 0.1676024944. Bit fail 127.
+Epochs          200. Current error: 0.0008146110. Bit fail 0.
+Epochs          400. Current error: 0.0004943712. Bit fail 0.
+Epochs          600. Current error: 0.0002639642. Bit fail 0.
+Epochs          800. Current error: 0.0001702907. Bit fail 0.
+Epochs         1000. Current error: 0.0001315615. Bit fail 0.
+# Train MSE: 0.000131562
+# Test MSE: 0.00023183
