@@ -55,8 +55,8 @@ image.
 *** === Build and Run AxBench ===***
 
 1) After downloading the **AxBench**, please go to the **parrot.c/src**
-directory and run **bash buildlib.sh**. It will create a static library which
-will be later used to execute the Parrot transformation on the applications.
+directory and run (1) **bash cleanlib.sh**, and (2) **bash buildlib.sh**. It will create a static library which
+will be later used to execute the Parrot transformation on the applications. 
 
 2) Then, modify **config.mk** in the **applications** folder with the location
 of the **Parrot** and **FANN library**.
