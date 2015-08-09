@@ -1,1 +1,0 @@
-doublefann.o: doublefann.c

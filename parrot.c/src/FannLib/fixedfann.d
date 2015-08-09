@@ -1,1 +1,0 @@
-fixedfann.o: fixedfann.c
